@@ -14,23 +14,26 @@ table, th, td {
 
 <table style="width:100%">
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Model</th>
+    <th>Accuracy</th>
+    <th>Validation_Accuracy</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>CNN</td>
+    <td>0.93</td>
+    <td>0.81</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>ANN</td>
+    <td>Epoch 30</td>
+    <td>Loss 0.2117</td>
   </tr>
 </table>
 
-<p>To understand the example better, we have added borders to the table.</p>
+<p>THis Project is Basicalyy End to End Project</p>
+<p>I Created A website To predict a Dog Vs Cat </p>
+<p>Then I Deploy This Project A AWS server With Ec2 Instance</p>
+<p>Inside the EC2 I used A ubantu os </p>
 
 </body>
 </html>
