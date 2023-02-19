@@ -21,7 +21,7 @@ Deep Learning Project Using CNN And Self Created Architecture
   </tr>
   <tr>
     <td>ANN</td>
-    <td>Epoch 30</td>
+    <td>Total Epoch 30</td>
     <td>Loss 0.2117</td>
   </tr>
 </table>
