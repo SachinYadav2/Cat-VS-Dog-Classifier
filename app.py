@@ -52,7 +52,7 @@ if uploaded_image is not None:
                         
                         st.header("Your Image like this")
                         st.text("DOG")
-                        display_image = Image.open('show/cat.jpeg')
+                        display_image = Image.open('show/dog.jpg')
                         return st.image(display_image,width=300)
                     else:
                         st.header("Your Image like this")
