@@ -33,3 +33,5 @@ Deep Learning Project Using CNN And Self Created Architecture
 
 </body>
 </html>
+<h1>IMage Classification Inside </h1>
+
