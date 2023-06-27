@@ -33,5 +33,11 @@ Deep Learning Project Using CNN And Self Created Architecture
 
 </body>
 </html>
-<h1>IMage Classification Inside </h1>
+<h1>Image Classification Task </h1>
+<h3>Note- We are train the model only image Data Set And Image Data set inside may we a one or more class possible but image classification throw you don not perform image  localization task but some alternative are present(Face Hard Class) </h3>
+<h1>Image Classification give a alway Integer in My CASE Zero means Dog And One means Cat (these zero and one are basically depend ont data preprocesing time)</h1>
+<img src="https://github.com/SachinYadav2/Cat-VS-Dog-Classifier/blob/main/cat%20dog.png" alt="Alt text" title="Optional title">
+
+
+
 
